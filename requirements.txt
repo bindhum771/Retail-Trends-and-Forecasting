@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+pytrends
+plotly
+prophet
+scikit-learn
+reportlab
