@@ -126,6 +126,15 @@ pip install streamlit pandas numpy pytrends plotly prophet scikit-learn reportla
 * Multi-language support.
 * Cloud deployment (Streamlit Cloud, Heroku).
 
+#Screenshots
+<img width="1366" height="768" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/65cdbf56-ee1b-42e8-a152-cfd879f7c4b2" />
+<img width="1366" height="768" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/f8181630-c268-41e0-b3f4-9484e733d4f3" />
+<img width="1366" height="768" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/0938ffed-0ba2-4675-848b-c6015226ab18" />
+<img width="1366" height="768" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/0ea0cb0e-f582-4c9a-9f89-5eb0ef2226a1" />
+<img width="1366" height="768" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/1f55dd59-fc27-4978-9bbd-de46138dd9ee" />
+<img width="1366" height="768" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/9aa17ba3-6105-47ae-a6d6-b2738c5b1f58" />
+
+
 ---
 
 👨‍💻 Author
